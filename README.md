@@ -6,7 +6,7 @@ Feed-En: English version
 Feed-Fa: Farsi version
 
 
-
+--------
 
 با این پلاگین می تونید با دستور /feed یا /ghaza خودتون رو سیر کنید.
 
